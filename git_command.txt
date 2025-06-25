@@ -6,3 +6,17 @@
   10 git status
   11 git commit -m "added testing ... 
   12 git status
+  13 history
+  14 git status
+  15 git add git_command.txt
+  16 git status
+  17 git commit -m "added git command"
+  18 git status
+  19 git remote add origin https://github.com/kartiksh21/g... 
+  20 git remote push master
+  21 git push origin master
+  22 git remote set-url origin https://ghp_CGGcdBoVHpAPIQQ... 
+  23 git remote -v
+  24 git push origin master
+  25 git push origin master
+  26 git push origin main
